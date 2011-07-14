@@ -1,0 +1,3 @@
+U32 { 1234567890 } # GD_MOUSE_ID
+U32 { 30633320 } #image hash
+U32 { 0 } # show mouse

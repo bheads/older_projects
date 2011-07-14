@@ -1,0 +1,24 @@
+officezombie
+
+Read only clone
+    git clone http://projects.emich.edu/~officez/officezombie.git
+
+Requires:
+    C++ compiler
+    cmake
+    SFML 1.6 C++
+        http://www.sfml-dev.org/download.php
+
+To Compile and run:
+
+    cd officezombie
+    mkdir bin
+    cd bin
+    cmake ..
+    make
+    ./pkr ../data/ oz
+    ./officezombie
+
+
+
+

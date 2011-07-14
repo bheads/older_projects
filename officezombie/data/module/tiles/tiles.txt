@@ -1,0 +1,9 @@
+U32 { 0 1294348173 } # black.png
+u32 { 11 1275672562 } #ceoofficetile.png
+U32 { 12 952455926 } # officetile.png
+U32 { 13 1261681238 } # block1.png
+U32 { 14 355181765 } # map.png
+
+U32 { 20 1581781297 } # start tile
+
+

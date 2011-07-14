@@ -1,0 +1,9 @@
+# Main Menu Data
+U32 { 400 }       # mainmenu Screen Menu ID == 400
+U32 { 638093666 } # Background Image Splash hash code
+U32 { 1722882258 1314217928 753847312 1334853745 1228533342 } # Buttons
+F32 { 280.0f, 560.0f }  #resumebtn position
+F32 { 380.0f, 560.0f }  #newbtn position
+F32 { 480.0f, 560.0f }  #trophiesbtn position
+F32 { 580.0f, 560.0f }  #settingsbtn position
+F32 { 680.0f, 560.0f }  #backbtn position

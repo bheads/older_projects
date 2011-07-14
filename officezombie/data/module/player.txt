@@ -1,0 +1,15 @@
+U32 { 666 } # player code
+U32 { 0 300 } # Experiance
+F32 { 1.5 } # level multiplier 
+U32 { 0 } # Level
+U32 { 10000 } # current map
+
+U32 { 1232422871 504828325 } # Green and Red notify tiles
+
+#level up GFX ID and SFX
+U32 { 1293338881 1256600149 }
+
+# Movable Map Node
+U32 { 298 } # player NPC base id, hold animation data
+I32 { 0 0 } # player X Y position
+U32 { 2 1 50 298 } # direction alive PLAYER_TYPE = 50 mutable id

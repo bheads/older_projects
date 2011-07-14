@@ -1,0 +1,4 @@
+# Trophy Data
+U32 { 451 }		# Trophy ID == 451
+U32 { 834540398 } 	# Trophy Image hash
+U32 { 0 }		# User Trophy Status

@@ -1,0 +1,304 @@
+------------------
+	625600	_D3src5shape6Sphere3hitMFKS3src3ray3RayfffKS3src5shape9HitrecordZb
+_D3src3ray3Ray2atMFfZxS3src6vector6vector	625600	15967788	3444860
+	625600	_D3src6vector6vector28__T13opBinaryRightVAyaa1_2aZ13opBinaryRightMFfZS3src6vector6vector
+	625600	_D3src6vector6vector22__T8opBinaryVAyaa1_2bZ8opBinaryMFS3src6vector6vectorZS3src6vector6vector
+------------------
+	250000	_D3src4main3hitFS3src6vector6vectorS3src6vector6vectorAC3src5shape5ShapeS3src6vector6vectorS3src6vector6vectoriiiZS3src6vector6vector
+_D3src3ray3Ray6__ctorMFNcKxS3src6vector6vectorKxS3src6vector6vectorZS3src3ray3Ray	250000	6025075	6025075
+------------------
+	250000	_Dmain
+_D3src4main3hitFS3src6vector6vectorS3src6vector6vectorAC3src5shape5ShapeS3src6vector6vectorS3src6vector6vectoriiiZS3src6vector6vector	250000	5620829371	-1177655122
+	250000	_D3src3ray3Ray6__ctorMFNcKxS3src6vector6vectorKxS3src6vector6vectorZS3src3ray3Ray
+	99000000	_D3src5shape6Sphere3hitMFKS3src3ray3RayfffKS3src5shape9HitrecordZb
+	2000000	_D3src6vector6vector25__T10opOpAssignVAyaa1_2bZ10opOpAssignMFNcS3src6vector6vectorZS3src6vector6vector
+	500000	_D3src6vector6vector25__T10opOpAssignVAyaa1_2fZ10opOpAssignMFNcfZS3src6vector6vector
+------------------
+	    1	_D3src5image5Image6__ctorMFNckkZS3src5image5Image
+_D3src5image5Image6__ctorMFNckkS3src6vector6vectorZS3src5image5Image	1	45092496	45092496
+------------------
+	    1	_Dmain
+_D3src5image5Image6__ctorMFNckkZS3src5image5Image	1	45102598	9757
+	    1	_D3src6vector6vector6__ctorMFNcffffZS3src6vector6vector
+	    1	_D3src5image5Image6__ctorMFNckkS3src6vector6vectorZS3src5image5Image
+------------------
+	    1	_Dmain
+_D3src5image5Image8writePPMMFAyaZv	1	0	-201391471
+	    1	_D3std5stdio4File19__T6writefTAyaTkTkZ6writefMFAyakkZv
+	250000	_D3src6vector6vector5clampMFffZv
+	250000	_D3std5stdio4File21__T6writefTAyaTfTfTfZ6writefMFAyafffZv
+------------------
+	312800	_D3src5shape6Sphere3hitMFKS3src3ray3RayfffKS3src5shape9HitrecordZb
+_D3src5shape14StrippedSphere5colorMFS3src6vector6vectorZS3src6vector6vector	312800	24404717	12899184
+	625600	_D3src6vector6vector28__T13opBinaryRightVAyaa1_2aZ13opBinaryRightMFfZS3src6vector6vector
+	312800	_D3src6vector6vector22__T8opBinaryVAyaa1_2bZ8opBinaryMFS3src6vector6vectorZS3src6vector6vector
+------------------
+	   99	_Dmain
+_D3src5shape14StrippedSphere6__ctorMFS3src6vector6vectorfS3src6vector6vectorS3src6vector6vectorfZC3src5shape14StrippedSphere	99	1236	995
+	   99	_D3src5shape6Sphere6__ctorMFS3src6vector6vectorfS3src6vector6vectorZC3src5shape6Sphere
+------------------
+	99000000	_D3src4main3hitFS3src6vector6vectorS3src6vector6vectorAC3src5shape5ShapeS3src6vector6vectorS3src6vector6vectoriiiZS3src6vector6vector
+_D3src5shape6Sphere3hitMFKS3src3ray3RayfffKS3src5shape9HitrecordZb	99000000	6777854192	3033780758
+	99312800	_D3src6vector6vector22__T8opBinaryVAyaa1_2dZ8opBinaryMFS3src6vector6vectorZS3src6vector6vector
+	297000000	_D3src6vector3dotFS3src6vector6vectorS3src6vector6vectorZf
+	312800	_D3src6vector6vector28__T13opBinaryRightVAyaa1_2aZ13opBinaryRightMFfZS3src6vector6vector
+	312800	_D3src6vector6vector22__T8opBinaryVAyaa1_2bZ8opBinaryMFS3src6vector6vectorZS3src6vector6vector
+	312800	_D3src6vector6normalFS3src6vector6vectorZS3src6vector6vector
+	625600	_D3src3ray3Ray2atMFfZxS3src6vector6vector
+	312800	_D3src5shape14StrippedSphere5colorMFS3src6vector6vectorZS3src6vector6vector
+	312800	_D3src6vector6vector6__ctorMFNcffffZS3src6vector6vector
+------------------
+	   99	_D3src5shape14StrippedSphere6__ctorMFS3src6vector6vectorfS3src6vector6vectorS3src6vector6vectorfZC3src5shape14StrippedSphere
+_D3src5shape6Sphere6__ctorMFS3src6vector6vectorfS3src6vector6vectorZC3src5shape6Sphere	99	241	241
+------------------
+	297000000	_D3src5shape6Sphere3hitMFKS3src3ray3RayfffKS3src5shape9HitrecordZb
+_D3src6vector3dotFS3src6vector6vectorS3src6vector6vectorZf	297000000	1763144826	1763144826
+------------------
+	312800	_D3src5shape6Sphere3hitMFKS3src3ray3RayfffKS3src5shape9HitrecordZb
+_D3src6vector6normalFS3src6vector6vectorZS3src6vector6vector	312800	4389814	2037460
+	312800	_D3src6vector6vector6lengthMFZf
+	312800	_D3src6vector6vector22__T8opBinaryVAyaa1_2fZ8opBinaryMFfZS3src6vector6vector
+------------------
+	312800	_D3src5shape6Sphere3hitMFKS3src3ray3RayfffKS3src5shape9HitrecordZb
+	625600	_D3src3ray3Ray2atMFfZxS3src6vector6vector
+	312800	_D3src5shape14StrippedSphere5colorMFS3src6vector6vectorZS3src6vector6vector
+_D3src6vector6vector22__T8opBinaryVAyaa1_2bZ8opBinaryMFS3src6vector6vectorZS3src6vector6vector	1251200	26384769	24300429
+	1251200	_D3src6vector6vector6__ctorMFNcffffZS3src6vector6vector
+------------------
+	99312800	_D3src5shape6Sphere3hitMFKS3src3ray3RayfffKS3src5shape9HitrecordZb
+_D3src6vector6vector22__T8opBinaryVAyaa1_2dZ8opBinaryMFS3src6vector6vectorZS3src6vector6vector	99312800	1920052453	1277309854
+	99312800	_D3src6vector6vector6__ctorMFNcffffZS3src6vector6vector
+------------------
+	312800	_D3src6vector6normalFS3src6vector6vectorZS3src6vector6vector
+_D3src6vector6vector22__T8opBinaryVAyaa1_2fZ8opBinaryMFfZS3src6vector6vector	312800	2073188	1503928
+	312800	_D3src6vector6vector6__ctorMFNcffffZS3src6vector6vector
+------------------
+	2000000	_D3src4main3hitFS3src6vector6vectorS3src6vector6vectorAC3src5shape5ShapeS3src6vector6vectorS3src6vector6vectoriiiZS3src6vector6vector
+_D3src6vector6vector25__T10opOpAssignVAyaa1_2bZ10opOpAssignMFNcS3src6vector6vectorZS3src6vector6vector	2000000	9537417	9537417
+------------------
+	500000	_D3src4main3hitFS3src6vector6vectorS3src6vector6vectorAC3src5shape5ShapeS3src6vector6vectorS3src6vector6vectoriiiZS3src6vector6vector
+_D3src6vector6vector25__T10opOpAssignVAyaa1_2fZ10opOpAssignMFNcfZS3src6vector6vector	500000	5067809	5067809
+------------------
+	312800	_D3src5shape6Sphere3hitMFKS3src3ray3RayfffKS3src5shape9HitrecordZb
+	625600	_D3src3ray3Ray2atMFfZxS3src6vector6vector
+	625600	_D3src5shape14StrippedSphere5colorMFS3src6vector6vectorZS3src6vector6vector
+_D3src6vector6vector28__T13opBinaryRightVAyaa1_2aZ13opBinaryRightMFfZS3src6vector6vector	1564000	12874977	10276213
+	1564000	_D3src6vector6vector6__ctorMFNcffffZS3src6vector6vector
+------------------
+	250000	_D3src5image5Image8writePPMMFAyaZv
+_D3src6vector6vector5clampMFffZv	250000	1114477	1114477
+------------------
+	    1	_D3src5image5Image6__ctorMFNckkZS3src5image5Image
+	500297	_Dmain
+	99312800	_D3src6vector6vector22__T8opBinaryVAyaa1_2dZ8opBinaryMFS3src6vector6vectorZS3src6vector6vector
+	1564000	_D3src6vector6vector28__T13opBinaryRightVAyaa1_2aZ13opBinaryRightMFfZS3src6vector6vector
+	1251200	_D3src6vector6vector22__T8opBinaryVAyaa1_2bZ8opBinaryMFS3src6vector6vectorZS3src6vector6vector
+	312800	_D3src6vector6vector22__T8opBinaryVAyaa1_2fZ8opBinaryMFfZS3src6vector6vector
+	312800	_D3src5shape6Sphere3hitMFKS3src3ray3RayfffKS3src5shape9HitrecordZb
+_D3src6vector6vector6__ctorMFNcffffZS3src6vector6vector	103253898	649684200	649684200
+------------------
+	312800	_D3src6vector6normalFS3src6vector6vectorZS3src6vector6vector
+_D3src6vector6vector6lengthMFZf	312800	279166	279166
+------------------
+	  693	_D3std4conv9__T2toTfZ9__T2toTfZ2toFfZf
+_D3std4conv15__T6toImplTfTfZ6toImplFfZf	693	0	0
+------------------
+	  693	_D3std6random163__T7uniformVAyaa2_5b29TfTfTS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZ7uniformFffKS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZf
+_D3std4conv9__T2toTfZ9__T2toTfZ2toFfZf	693	0	0
+	  693	_D3std4conv15__T6toImplTfTfZ6toImplFfZf
+------------------
+	  693	_D3std6random163__T7uniformVAyaa2_5b29TfTfTS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZ7uniformFffKS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZf
+_D3std4math16__T9nextafterTfZ9nextafterFNaNbNfffZf	693	102117	102117
+------------------
+	1000003	_D3std6format19__T10FormatSpecTyaZ10FormatSpec59__T17writeUpToNextSpecTS3std5stdio4File17LockingTextWriterZ17writeUpToNextSpecMFS3std5stdio4File17LockingTextWriterZb
+_D3std5array13__T5emptyTyaZ5emptyFNaNbNdNfxAyaZb	1000003	2127398	2127398
+------------------
+	    2	_D3std6format58__T11formatValueTS3std5stdio4File17LockingTextWriterTkTyaZ11formatValueFS3std5stdio4File17LockingTextWriterkS3std6format19__T10FormatSpecTyaZ10FormatSpecZv
+_D3std5range47__T3putTS3std5stdio4File17LockingTextWriterTAaZ3putFKS3std5stdio4File17LockingTextWriterAaZv	2	326	111
+	    2	_D3std5stdio4File17LockingTextWriter11__T3putTAaZ3putMFAaZv
+------------------
+	3000000	_D3std6format58__T11formatValueTS3std5stdio4File17LockingTextWriterTfTyaZ11formatValueFS3std5stdio4File17LockingTextWriterfKS3std6format19__T10FormatSpecTyaZ10FormatSpecZv
+_D3std5range47__T3putTS3std5stdio4File17LockingTextWriterTxaZ3putFKS3std5stdio4File17LockingTextWriterxaZv	3000000	114387056	24626559
+	3000000	_D3std5stdio4File17LockingTextWriter11__T3putTxaZ3putMFxaZv
+------------------
+	750003	_D3std6format19__T10FormatSpecTyaZ10FormatSpec59__T17writeUpToNextSpecTS3std5stdio4File17LockingTextWriterZ17writeUpToNextSpecMFS3std5stdio4File17LockingTextWriterZb
+_D3std5range48__T3putTS3std5stdio4File17LockingTextWriterTAyaZ3putFKS3std5stdio4File17LockingTextWriterAyaZv	750003	8381670	4275912
+	750003	_D3std5stdio4File17LockingTextWriter12__T3putTAyaZ3putMFAyaZv
+------------------
+	    2	_D3std5range47__T3putTS3std5stdio4File17LockingTextWriterTAaZ3putFKS3std5stdio4File17LockingTextWriterAaZv
+_D3std5stdio4File17LockingTextWriter11__T3putTAaZ3putMFAaZv	2	215	215
+------------------
+	3000000	_D3std5range47__T3putTS3std5stdio4File17LockingTextWriterTxaZ3putFKS3std5stdio4File17LockingTextWriterxaZv
+_D3std5stdio4File17LockingTextWriter11__T3putTxaZ3putMFxaZv	3000000	89760497	89760497
+------------------
+	750003	_D3std5range48__T3putTS3std5stdio4File17LockingTextWriterTAyaZ3putFKS3std5stdio4File17LockingTextWriterAyaZv
+_D3std5stdio4File17LockingTextWriter12__T3putTAyaZ3putMFAyaZv	750003	4105758	4105758
+------------------
+	    1	_D3src5image5Image8writePPMMFAyaZv
+_D3std5stdio4File19__T6writefTAyaTkTkZ6writefMFAyakkZv	1	86759	17674
+	    1	_D3std6format63__T14formattedWriteTS3std5stdio4File17LockingTextWriterTyaTkTkZ14formattedWriteFS3std5stdio4File17LockingTextWriterxAyakkZv
+------------------
+	250000	_D3src5image5Image8writePPMMFAyaZv
+_D3std5stdio4File21__T6writefTAyaTfTfTfZ6writefMFAyafffZv	250000	200190235	2755712
+	250000	_D3std6format65__T14formattedWriteTS3std5stdio4File17LockingTextWriterTyaTfTfTfZ14formattedWriteFS3std5stdio4File17LockingTextWriterxAyafffZv
+------------------
+	    3	_D3std6format63__T14formattedWriteTS3std5stdio4File17LockingTextWriterTyaTkTkZ14formattedWriteFS3std5stdio4File17LockingTextWriterxAyakkZv
+	1000000	_D3std6format65__T14formattedWriteTS3std5stdio4File17LockingTextWriterTyaTfTfTfZ14formattedWriteFS3std5stdio4File17LockingTextWriterxAyafffZv
+_D3std6format19__T10FormatSpecTyaZ10FormatSpec59__T17writeUpToNextSpecTS3std5stdio4File17LockingTextWriterZ17writeUpToNextSpecMFS3std5stdio4File17LockingTextWriterZb	1000003	32614145	17218023
+	1000003	_D3std5array13__T5emptyTyaZ5emptyFNaNbNdNfxAyaZb
+	750003	_D3std5range48__T3putTS3std5stdio4File17LockingTextWriterTAyaZ3putFKS3std5stdio4File17LockingTextWriterAyaZv
+	750002	_D3std6format19__T10FormatSpecTyaZ10FormatSpec6fillUpMFZv
+------------------
+	    1	_D3std6format63__T14formattedWriteTS3std5stdio4File17LockingTextWriterTyaTkTkZ14formattedWriteFS3std5stdio4File17LockingTextWriterxAyakkZv
+	250000	_D3std6format65__T14formattedWriteTS3std5stdio4File17LockingTextWriterTyaTfTfTfZ14formattedWriteFS3std5stdio4File17LockingTextWriterxAyafffZv
+_D3std6format19__T10FormatSpecTyaZ10FormatSpec6__ctorMFNcxAyaZS3std6format19__T10FormatSpecTyaZ10FormatSpec	250001	206760	206760
+------------------
+	750002	_D3std6format19__T10FormatSpecTyaZ10FormatSpec59__T17writeUpToNextSpecTS3std5stdio4File17LockingTextWriterZ17writeUpToNextSpecMFS3std5stdio4File17LockingTextWriterZb
+_D3std6format19__T10FormatSpecTyaZ10FormatSpec6fillUpMFZv	750002	4887054	4887054
+------------------
+	    2	_D3std6format58__T11formatValueTS3std5stdio4File17LockingTextWriterTkTyaZ11formatValueFS3std5stdio4File17LockingTextWriterkS3std6format19__T10FormatSpecTyaZ10FormatSpecZv
+_D3std6format19__T10FormatSpecTyaZ10FormatSpec6flDashMxFZb	2	0	0
+------------------
+	    2	_D3std6format58__T11formatValueTS3std5stdio4File17LockingTextWriterTkTyaZ11formatValueFS3std5stdio4File17LockingTextWriterkS3std6format19__T10FormatSpecTyaZ10FormatSpecZv
+	750000	_D3std6format58__T11formatValueTS3std5stdio4File17LockingTextWriterTfTyaZ11formatValueFS3std5stdio4File17LockingTextWriterfKS3std6format19__T10FormatSpecTyaZ10FormatSpecZv
+_D3std6format19__T10FormatSpecTyaZ10FormatSpec6flPlusMxFZb	750002	7102586	7102586
+------------------
+	    2	_D3std6format58__T11formatValueTS3std5stdio4File17LockingTextWriterTkTyaZ11formatValueFS3std5stdio4File17LockingTextWriterkS3std6format19__T10FormatSpecTyaZ10FormatSpecZv
+_D3std6format19__T10FormatSpecTyaZ10FormatSpec6flZeroMxFZb	2	0	0
+------------------
+	    2	_D3std6format58__T11formatValueTS3std5stdio4File17LockingTextWriterTkTyaZ11formatValueFS3std5stdio4File17LockingTextWriterkS3std6format19__T10FormatSpecTyaZ10FormatSpecZv
+_D3std6format19__T10FormatSpecTyaZ10FormatSpec7flSpaceMxFZb	2	0	0
+------------------
+	750000	_D3std6format60__T13formatGenericTS3std5stdio4File17LockingTextWriterTfTyaZ13formatGenericFS3std5stdio4File17LockingTextWriterPxvKS3std6format19__T10FormatSpecTyaZ10FormatSpecZv
+_D3std6format58__T11formatValueTS3std5stdio4File17LockingTextWriterTfTyaZ11formatValueFS3std5stdio4File17LockingTextWriterfKS3std6format19__T10FormatSpecTyaZ10FormatSpecZv	750000	142540254	21050612
+	750000	_D3std6format19__T10FormatSpecTyaZ10FormatSpec6flPlusMxFZb
+	3000000	_D3std5range47__T3putTS3std5stdio4File17LockingTextWriterTxaZ3putFKS3std5stdio4File17LockingTextWriterxaZv
+------------------
+	    2	_D3std6format60__T13formatGenericTS3std5stdio4File17LockingTextWriterTkTyaZ13formatGenericFS3std5stdio4File17LockingTextWriterPxvKS3std6format19__T10FormatSpecTyaZ10FormatSpecZv
+_D3std6format58__T11formatValueTS3std5stdio4File17LockingTextWriterTkTyaZ11formatValueFS3std5stdio4File17LockingTextWriterkS3std6format19__T10FormatSpecTyaZ10FormatSpecZv	2	3806	3480
+	    2	_D3std6format19__T10FormatSpecTyaZ10FormatSpec6flDashMxFZb
+	    2	_D3std6format19__T10FormatSpecTyaZ10FormatSpec6flZeroMxFZb
+	    2	_D3std6format19__T10FormatSpecTyaZ10FormatSpec6flPlusMxFZb
+	    2	_D3std6format19__T10FormatSpecTyaZ10FormatSpec7flSpaceMxFZb
+	    2	_D3std5range47__T3putTS3std5stdio4File17LockingTextWriterTAaZ3putFKS3std5stdio4File17LockingTextWriterAaZv
+------------------
+	750000	_D3std6format65__T14formattedWriteTS3std5stdio4File17LockingTextWriterTyaTfTfTfZ14formattedWriteFS3std5stdio4File17LockingTextWriterxAyafffZv
+_D3std6format60__T13formatGenericTS3std5stdio4File17LockingTextWriterTfTyaZ13formatGenericFS3std5stdio4File17LockingTextWriterPxvKS3std6format19__T10FormatSpecTyaZ10FormatSpecZv	750000	150551800	8011546
+	750000	_D3std6format58__T11formatValueTS3std5stdio4File17LockingTextWriterTfTyaZ11formatValueFS3std5stdio4File17LockingTextWriterfKS3std6format19__T10FormatSpecTyaZ10FormatSpecZv
+------------------
+	    2	_D3std6format63__T14formattedWriteTS3std5stdio4File17LockingTextWriterTyaTkTkZ14formattedWriteFS3std5stdio4File17LockingTextWriterxAyakkZv
+_D3std6format60__T13formatGenericTS3std5stdio4File17LockingTextWriterTkTyaZ13formatGenericFS3std5stdio4File17LockingTextWriterPxvKS3std6format19__T10FormatSpecTyaZ10FormatSpecZv	2	4177	371
+	    2	_D3std6format58__T11formatValueTS3std5stdio4File17LockingTextWriterTkTyaZ11formatValueFS3std5stdio4File17LockingTextWriterkS3std6format19__T10FormatSpecTyaZ10FormatSpecZv
+------------------
+	    1	_D3std5stdio4File19__T6writefTAyaTkTkZ6writefMFAyakkZv
+_D3std6format63__T14formattedWriteTS3std5stdio4File17LockingTextWriterTyaTkTkZ14formattedWriteFS3std5stdio4File17LockingTextWriterxAyakkZv	1	69085	12151
+	    1	_D3std6format19__T10FormatSpecTyaZ10FormatSpec6__ctorMFNcxAyaZS3std6format19__T10FormatSpecTyaZ10FormatSpec
+	    3	_D3std6format19__T10FormatSpecTyaZ10FormatSpec59__T17writeUpToNextSpecTS3std5stdio4File17LockingTextWriterZ17writeUpToNextSpecMFS3std5stdio4File17LockingTextWriterZb
+	    2	_D3std6format60__T13formatGenericTS3std5stdio4File17LockingTextWriterTkTyaZ13formatGenericFS3std5stdio4File17LockingTextWriterPxvKS3std6format19__T10FormatSpecTyaZ10FormatSpecZv
+------------------
+	250000	_D3std5stdio4File21__T6writefTAyaTfTfTfZ6writefMFAyafffZv
+_D3std6format65__T14formattedWriteTS3std5stdio4File17LockingTextWriterTyaTfTfTfZ14formattedWriteFS3std5stdio4File17LockingTextWriterxAyafffZv	250000	197434523	14114575
+	250000	_D3std6format19__T10FormatSpecTyaZ10FormatSpec6__ctorMFNcxAyaZS3std6format19__T10FormatSpecTyaZ10FormatSpec
+	1000000	_D3std6format19__T10FormatSpecTyaZ10FormatSpec59__T17writeUpToNextSpecTS3std5stdio4File17LockingTextWriterZ17writeUpToNextSpecMFS3std5stdio4File17LockingTextWriterZb
+	750000	_D3std6format60__T13formatGenericTS3std5stdio4File17LockingTextWriterTfTyaZ13formatGenericFS3std5stdio4File17LockingTextWriterPxvKS3std6format19__T10FormatSpecTyaZ10FormatSpecZv
+------------------
+	  693	_D3std6random27__T7uniformVAyaa2_5b29TfTfZ7uniformFffZf
+_D3std6random163__T7uniformVAyaa2_5b29TfTfTS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZ7uniformFffKS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZf	693	160462	58345
+	  693	_D3std4conv9__T2toTfZ9__T2toTfZ2toFfZf
+	  693	_D3std4math16__T9nextafterTfZ9nextafterFNaNbNfffZf
+	  693	_D3std9exception103__T7enforceTbVAyaa38_2f7573722f696e636c7564652f642f646d642f70686f626f732f7374642f72616e646f6d2e64Vi932Z7enforceFbLAxaZb
+------------------
+	  198	_D3std6random27__T7uniformVAyaa2_5b29TiTiZ7uniformFiiZi
+_D3std6random163__T7uniformVAyaa2_5b29TiTiTS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZ7uniformFiiKS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZi	198	834	834
+	  198	_D3std9exception103__T7enforceTbVAyaa38_2f7573722f696e636c7564652f642f646d642f70686f626f732f7374642f72616e646f6d2e64Vi932Z7enforceFbLAxaZb
+------------------
+	  198	_D3std6random27__T7uniformVAyaa2_5b29TiTkZ7uniformFikZk
+_D3std6random163__T7uniformVAyaa2_5b29TiTkTS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZ7uniformFikKS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZk	198	1431	1281
+	  198	_D3std9exception103__T7enforceTbVAyaa38_2f7573722f696e636c7564652f642f646d642f70686f626f732f7374642f72616e646f6d2e64Vi932Z7enforceFbLAxaZb
+------------------
+	  693	_Dmain
+_D3std6random27__T7uniformVAyaa2_5b29TfTfZ7uniformFffZf	693	472100	311638
+	  693	_D3std6random163__T7uniformVAyaa2_5b29TfTfTS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZ7uniformFffKS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZf
+------------------
+	  198	_Dmain
+_D3std6random27__T7uniformVAyaa2_5b29TiTiZ7uniformFiiZi	198	93918	93084
+	  198	_D3std6random163__T7uniformVAyaa2_5b29TiTiTS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZ7uniformFiiKS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZi
+------------------
+	  198	_Dmain
+_D3std6random27__T7uniformVAyaa2_5b29TiTkZ7uniformFikZk	198	777936	776505
+	  198	_D3std6random163__T7uniformVAyaa2_5b29TiTkTS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZ7uniformFikKS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZk
+------------------
+	  198	_D3std6random163__T7uniformVAyaa2_5b29TiTkTS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZ7uniformFikKS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZk
+	  198	_D3std6random163__T7uniformVAyaa2_5b29TiTiTS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZ7uniformFiiKS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZi
+	  693	_D3std6random163__T7uniformVAyaa2_5b29TfTfTS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZ7uniformFffKS3std6random98__T21MersenneTwisterEngineTkVi32Vi624Vi397Vi31Vk2567483615Vi11Vi7Vk2636928640Vi15Vk4022730752Vi18Z21MersenneTwisterEngineZf
+_D3std9exception103__T7enforceTbVAyaa38_2f7573722f696e636c7564652f642f646d642f70686f626f732f7374642f72616e646f6d2e64Vi932Z7enforceFbLAxaZb	1089	150	150
+------------------
+_Dmain	0	0	-5668083500
+	    1	_D3src5image5Image6__ctorMFNckkZS3src5image5Image
+	  198	_D3std6random27__T7uniformVAyaa2_5b29TiTkZ7uniformFikZk
+	  198	_D3std6random27__T7uniformVAyaa2_5b29TiTiZ7uniformFiiZi
+	500297	_D3src6vector6vector6__ctorMFNcffffZS3src6vector6vector
+	  693	_D3std6random27__T7uniformVAyaa2_5b29TfTfZ7uniformFffZf
+	   99	_D3src5shape14StrippedSphere6__ctorMFS3src6vector6vectorfS3src6vector6vectorS3src6vector6vectorfZC3src5shape14StrippedSphere
+	250000	_D3src4main3hitFS3src6vector6vectorS3src6vector6vectorAC3src5shape5ShapeS3src6vector6vectorS3src6vector6vectoriiiZS3src6vector6vector
+	    1	_D3src5image5Image8writePPMMFAyaZv
+
+======== Timer Is 3579545 Ticks/Sec, Times are in Microsecs ========
+
+  Num          Tree        Func        Per
+  Calls        Time        Time        Call
+
+99000000  1893496014   847532509           8     bool src.shape.Sphere.hit(ref src.ray.Ray, float, float, float, ref src.shape.Hitrecord)
+297000000   492561156   492561156           1     float src.vector.dot(src.vector.vector, src.vector.vector)
+99312800   536395674   356835814           3     src.vector.vector src.vector.vector.opBinary!("-").opBinary(src.vector.vector)
+103253898   181499101   181499101           1     ref src.vector.vector src.vector.vector.__ctor(float, float, float, float)
+3000000    25075951    25075951           8     void std.stdio.File.LockingTextWriter.put!(const(char)).put(const(char))
+      1    12597270    12597270    12597270     ref src.image.Image src.image.Image.__ctor(uint, uint, src.vector.vector)
+3000000    31955753     6879801           2     void std.range.put!(std.stdio.File.LockingTextWriter, const(char)).put(ref std.stdio.File.LockingTextWriter, const(char))
+1251200     7370984     6788692           5     src.vector.vector src.vector.vector.opBinary!("+").opBinary(src.vector.vector)
+ 750000    39820774     5880806           7     void std.format.formatValue!(std.stdio.File.LockingTextWriter, float, immutable(char)).formatValue(std.stdio.File.LockingTextWriter, float, ref std.format.FormatSpec!(immutable(char)).FormatSpec)
+1000003     9111254     4810114           4     bool std.format.FormatSpec!(immutable(char)).FormatSpec.writeUpToNextSpec!(std.stdio.File.LockingTextWriter).writeUpToNextSpec(std.stdio.File.LockingTextWriter)
+ 250000    55156318     3943119          15     void std.format.formattedWrite!(std.stdio.File.LockingTextWriter, immutable(char), float, float, float).formattedWrite(std.stdio.File.LockingTextWriter, const(immutable(char)[]), float, float, float)
+ 312800     6817826     3603582          11     src.vector.vector src.shape.StrippedSphere.color(src.vector.vector)
+1564000     3596819     2870815           1     src.vector.vector src.vector.vector.opBinaryRight!("*").opBinaryRight(float)
+2000000     2664421     2664421           1     ref src.vector.vector src.vector.vector.opOpAssign!("+").opOpAssign(src.vector.vector)
+ 750000    42058920     2238146           2     void std.format.formatGeneric!(std.stdio.File.LockingTextWriter, float, immutable(char)).formatGeneric(std.stdio.File.LockingTextWriter, const(void)*, ref std.format.FormatSpec!(immutable(char)).FormatSpec)
+ 750002     1984214     1984214           2     const(bool function()) std.format.FormatSpec!(immutable(char)).FormatSpec.flPlus
+ 250000     1683195     1683195           6     ref src.ray.Ray src.ray.Ray.__ctor(ref const(src.vector.vector), ref const(src.vector.vector))
+ 500000     1415769     1415769           2     ref src.vector.vector src.vector.vector.opOpAssign!("/").opOpAssign(float)
+ 750002     1365272     1365272           1     void std.format.FormatSpec!(immutable(char)).FormatSpec.fillUp()
+ 750003     2341546     1194540           1     void std.range.put!(std.stdio.File.LockingTextWriter, immutable(char)[]).put(ref std.stdio.File.LockingTextWriter, immutable(char)[])
+ 750003     1147005     1147005           1     void std.stdio.File.LockingTextWriter.put!(immutable(char)[]).put(immutable(char)[])
+ 625600     4460842      962373           1     const(src.vector.vector) src.ray.Ray.at(float)
+ 250000    55926167      769849           3     void std.stdio.File.writef!(immutable(char)[], float, float, float).writef(immutable(char)[], float, float, float)
+1000003      594320      594320           0     pure nothrow @property @safe bool std.array.empty!(immutable(char)).empty(const(immutable(char)[]))
+ 312800     1226360      569195           1     src.vector.vector src.vector.normal(src.vector.vector)
+ 312800      579176      420145           1     src.vector.vector src.vector.vector.opBinary!("/").opBinary(float)
+ 250000      311345      311345           1     void src.vector.vector.clamp(float, float)
+    198      217328      216928        1095     uint std.random.uniform!("[)", int, uint).uniform(int, uint)
+    693      131888       87060         125     float std.random.uniform!("[)", float, float).uniform(float, float)
+ 312800       77989       77989           0     float src.vector.vector.length()
+ 250001       57761       57761           0     ref std.format.FormatSpec!(immutable(char)).FormatSpec std.format.FormatSpec!(immutable(char)).FormatSpec.__ctor(const(immutable(char)[]))
+    693       28527       28527          41     pure nothrow @safe float std.math.nextafter!(float).nextafter(float, float)
+    198       26237       26004         131     int std.random.uniform!("[)", int, int).uniform(int, int)
+    693       44827       16299          23     float std.random.uniform!("[)", float, float, std.random.MersenneTwisterEngine!(uint, 32, 624, 397, 31, 2567483615, 11, 7, 2636928640, 15, 4022730752, 18).MersenneTwisterEngine).uniform(float, float, ref std.random.MersenneTwisterEngine!(uint, 32, 624, 397, 31, 2567483615, 11, 7, 2636928640, 15, 4022730752, 18).MersenneTwisterEngine)
+      1       24237        4937        4937     void std.stdio.File.writef!(immutable(char)[], uint, uint).writef(immutable(char)[], uint, uint)
+      1       19299        3394        3394     void std.format.formattedWrite!(std.stdio.File.LockingTextWriter, immutable(char), uint, uint).formattedWrite(std.stdio.File.LockingTextWriter, const(immutable(char)[]), uint, uint)
+      1    12600092        2725        2725     ref src.image.Image src.image.Image.__ctor(uint, uint)
+      2        1063         972         486     void std.format.formatValue!(std.stdio.File.LockingTextWriter, uint, immutable(char)).formatValue(std.stdio.File.LockingTextWriter, uint, std.format.FormatSpec!(immutable(char)).FormatSpec)
+    198         399         357           1     uint std.random.uniform!("[)", int, uint, std.random.MersenneTwisterEngine!(uint, 32, 624, 397, 31, 2567483615, 11, 7, 2636928640, 15, 4022730752, 18).MersenneTwisterEngine).uniform(int, uint, ref std.random.MersenneTwisterEngine!(uint, 32, 624, 397, 31, 2567483615, 11, 7, 2636928640, 15, 4022730752, 18).MersenneTwisterEngine)
+     99         345         277           2     src.shape.StrippedSphere src.shape.StrippedSphere.__ctor(src.vector.vector, float, src.vector.vector, src.vector.vector, float)
+    198         232         232           1     int std.random.uniform!("[)", int, int, std.random.MersenneTwisterEngine!(uint, 32, 624, 397, 31, 2567483615, 11, 7, 2636928640, 15, 4022730752, 18).MersenneTwisterEngine).uniform(int, int, ref std.random.MersenneTwisterEngine!(uint, 32, 624, 397, 31, 2567483615, 11, 7, 2636928640, 15, 4022730752, 18).MersenneTwisterEngine)
+      2        1166         103          51     void std.format.formatGeneric!(std.stdio.File.LockingTextWriter, uint, immutable(char)).formatGeneric(std.stdio.File.LockingTextWriter, const(void)*, ref std.format.FormatSpec!(immutable(char)).FormatSpec)
+     99          67          67           0     src.shape.Sphere src.shape.Sphere.__ctor(src.vector.vector, float, src.vector.vector)
+      2          60          60          30     void std.stdio.File.LockingTextWriter.put!(char[]).put(char[])
+   1089          41          41           0     bool std.exception.enforce!(bool, "/usr/include/d/dmd/phobos/std/random.d", 932).enforce(bool, lazy const(char)[])
+      2          91          31          15     void std.range.put!(std.stdio.File.LockingTextWriter, char[]).put(ref std.stdio.File.LockingTextWriter, char[])
+    693           0           0           0     float std.conv.to!(float).to!(float).to(float)
+    693           0           0           0     float std.conv.toImpl!(float, float).toImpl(float)
+      2           0           0           0     const(bool function()) std.format.FormatSpec!(immutable(char)).FormatSpec.flDash
+      2           0           0           0     const(bool function()) std.format.FormatSpec!(immutable(char)).FormatSpec.flZero
+      2           0           0           0     const(bool function()) std.format.FormatSpec!(immutable(char)).FormatSpec.flSpace
+      1           0   -56261751   -56261751     void src.image.Image.writePPM(immutable(char)[])
+ 250000  1570263642  -328995758       -1315     src.vector.vector src.main.hit(src.vector.vector, src.vector.vector, src.shape.Shape[], src.vector.vector, src.vector.vector, int, int, int)
+      1           0 -1583464797 -1583464797     _Dmain

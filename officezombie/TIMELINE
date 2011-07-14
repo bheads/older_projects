@@ -1,0 +1,138 @@
+Starting a Dev Timeline and List of Goals
+
+Tue March 15: 
+    Finish Design Document
+    Finalize Editor Design
+
+Wed March 16:
+    SFX Sound Buffer Map     
+    Graphics Primitives
+    Editor Config Class 
+
+Thu March 17:
+    Finish Bulk of Editor
+
+Fri March 18:
+    Finish Profile Menu
+    Finish Main Menu
+
+Sat March 19:
+    Start Game State
+    Build player stats and leveling system
+    Render game UI
+
+Sun March 20:
+    Start Mapping System Design
+
+Mon March 21: 
+    Mapping / Editing
+
+Tue March 22:
+    Finish Mapping System Design
+
+Wed March 23:
+    Start Map Editor
+
+Thu March 24:
+    Start Map Render
+
+Fri March 25:
+    Basic Map file layout
+    Pack map files
+    Load map from pack
+    Render floor tiles
+  
+Sat March 26:
+    Render Player Zombie
+    Make Zombie Moveable
+    Moveable view port
+    Animate zombie
+
+Sun March 27:
+    Map Demo 1
+    Image Processing
+    Sound Processing
+
+Mon March 28:
+    Map Demo 2
+    Image Processing
+    Sound Processing
+
+Tue March 29:
+    Finish Map Render and Editor
+    Plan Game AI and Game Logic
+    Image Processing
+    Sound Processing
+
+Fri April 1:
+    Start Build Game Level Maps
+    Start Adding Game Animations
+    Start Adding Game Objects
+    Start Puzzles
+
+Sat April 2:
+    Puzzle rendering
+    Level transitions
+
+Sun April 3:
+    Have map rendering, puzzle display, and level transitions
+
+Mon April 4:
+    Static Object rendering    
+
+Tue April 5:
+    AI review and implementing
+
+Wed April 6:
+    NPC rendering
+    NPC animations
+    NPC AI
+    
+Thu April 7:
+    Movable object rendering
+    logic
+
+Fri April 8:
+    Game play Demo 1
+ 
+Sat April 9:
+    Bug Squash 1
+
+Sun April 10:
+    Finish Basic Level Layout
+
+Mon April 11:
+    Finish Puzzles
+
+Tue April 12:
+    Game play Demo 2
+
+Wed April 13:
+    Bug Squash 2
+    Finish Level Static Layout
+
+Thu April 14:
+    Game play Demo 3
+ 
+Fri April 15:
+    Bug Squash 3
+    Finish NPC Layout
+    Finish Collectables Layout
+
+Sat April 16:
+    Game Play Demo 4
+
+Sun April 17:
+    Bug Squash 4
+    Finish Puzzle Layout
+
+Mon April 18:
+    Game Play Demo 5
+    Bug Squash
+    Finish Awards
+    Add Skeleton reward
+
+Tue April 19:
+    Final Game
+
+

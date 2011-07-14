@@ -1,0 +1,47 @@
+#tutorial1
+U32 { 2600 } # ID 2600 - 2699
+U32 { 0 } # textcode
+U32 { 112087445 } # imagehash (Zombie)
+U32 { 1608054726 } # soundhash (Zombie)
+
+#Tutorial2
+U32 { 2601 } # ID 2600 - 2699
+U32 { 1 } # textcode
+U32 { 112087445 } # imagehash (Zombie)
+U32 { 0 } # soundhash (none)
+
+#tutorial2
+U32 { 2602 } # ID 2600 - 2699
+U32 { 2 } # textcode
+U32 { 279550650 } # imagehash (Office Bro)
+U32 { 0 } # soundhash (none)
+
+#tutorial2
+U32 { 2603 } # ID 2600 - 2699
+U32 { 3 } # textcode
+U32 { 112087445 } # imagehash (Zombie)
+U32 { 1608054726 } # soundhash (Zombie)
+
+#ceo room1
+U32 { 2604 } # ID 2600 - 2699
+U32 { 4 } # textcode
+U32 { 1254779418 } # imagehash (ceo)
+U32 { 0 } # soundhash (none)
+
+#ceo room2
+U32 { 2605 } # ID 2600 - 2699
+U32 { 5 } # textcode
+U32 { 112087445 } # imagehash (Zombie)
+U32 { 1608054726 } # soundhash (Zombie)
+
+#final
+U32 { 2606 } # ID 2600 - 2699
+U32 { 6 } # textcode
+U32 { 112087445 } # imagehash (Zombie)
+U32 { 1608054726 } # soundhash (Zombie)
+
+#office bro death scene
+U32 { 2607 } # ID 2600 - 2699
+U32 { 7 } # textcode
+U32 { 279550650 } # imagehash (Office Bro)
+U32 { 0 } # soundhash (none)

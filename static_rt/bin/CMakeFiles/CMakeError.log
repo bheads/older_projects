@@ -1,0 +1,60 @@
+Compiling the D compiler identification source file "CMakeDCompilerId.d" failed.
+Compiler: /usr/bin/dmd 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+CMakeDCompilerId.d(1): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(2): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(2): function declaration without return type. (Note that constructors are always named 'this')
+CMakeDCompilerId.d(2): no identifier for declarator defined(__dmd__)
+CMakeDCompilerId.d(2): semicolon expected following function declaration
+CMakeDCompilerId.d(2): no identifier for declarator COMPILER_ID
+CMakeDCompilerId.d(2): semicolon expected, not '"dmd"'
+CMakeDCompilerId.d(2): Declaration expected, not '"dmd"'
+CMakeDCompilerId.d(4): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(5): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(7): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(8): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(10): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(11): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(12): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(21): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(21): function declaration without return type. (Note that constructors are always named 'this')
+CMakeDCompilerId.d(21): no identifier for declarator defined(__linux)
+CMakeDCompilerId.d(21): semicolon expected following function declaration
+CMakeDCompilerId.d(21): Declaration expected, not '||'
+CMakeDCompilerId.d(22): #line integer ["filespec"]\n expected
+
+
+Compiling the D compiler identification source file "CMakeDCompilerId.d" failed.
+Compiler: /usr/bin/dmd 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+CMakeDCompilerId.d(1): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(2): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(2): function declaration without return type. (Note that constructors are always named 'this')
+CMakeDCompilerId.d(2): no identifier for declarator defined(__dmd__)
+CMakeDCompilerId.d(2): semicolon expected following function declaration
+CMakeDCompilerId.d(2): no identifier for declarator COMPILER_ID
+CMakeDCompilerId.d(2): semicolon expected, not '"dmd"'
+CMakeDCompilerId.d(2): Declaration expected, not '"dmd"'
+CMakeDCompilerId.d(4): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(5): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(7): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(8): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(10): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(11): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(12): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(21): #line integer ["filespec"]\n expected
+CMakeDCompilerId.d(21): function declaration without return type. (Note that constructors are always named 'this')
+CMakeDCompilerId.d(21): no identifier for declarator defined(__linux)
+CMakeDCompilerId.d(21): semicolon expected following function declaration
+CMakeDCompilerId.d(21): Declaration expected, not '||'
+CMakeDCompilerId.d(22): #line integer ["filespec"]\n expected
+
+

@@ -1,0 +1,31 @@
+The system is: Linux - 2.6.38-8-generic-pae - i686
+Determining if the D compiler works passed with the following output:
+Change Dir: /home/byron/Programming/d/static_rt/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/home/byron/Programming/d/static_rt/bin/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/byron/Programming/d/static_rt/bin/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building D object CMakeFiles/cmTryCompileExec.dir/testDCompiler.o
+/usr/bin/dmd   -ofCMakeFiles/cmTryCompileExec.dir/testDCompiler.o -c /home/byron/Programming/d/static_rt/bin/CMakeFiles/CMakeTmp/testDCompiler.d
+Linking D executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/usr/bin/dmd       CMakeFiles/cmTryCompileExec.dir/testDCompiler.o -ofcmTryCompileExec   
+make[1]: Leaving directory `/home/byron/Programming/d/static_rt/bin/CMakeFiles/CMakeTmp'
+
+
+Detecting D compiler ABI info compiled with the following output:
+Change Dir: /home/byron/Programming/d/static_rt/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+make[1]: Entering directory `/home/byron/Programming/d/static_rt/bin/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/byron/Programming/d/static_rt/bin/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building D object CMakeFiles/cmTryCompileExec.dir/CMakeDCompilerABI.o
+/usr/bin/dmd   -ofCMakeFiles/cmTryCompileExec.dir/CMakeDCompilerABI.o -c /usr/share/cmake-2.8/Modules/CMakeDCompilerABI.d
+Linking D executable cmTryCompileExec
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/usr/bin/dmd       CMakeFiles/cmTryCompileExec.dir/CMakeDCompilerABI.o -ofcmTryCompileExec    
+make[1]: Leaving directory `/home/byron/Programming/d/static_rt/bin/CMakeFiles/CMakeTmp'
+
+

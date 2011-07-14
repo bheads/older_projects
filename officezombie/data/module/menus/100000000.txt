@@ -1,0 +1,7 @@
+# Splash Menu Data
+U32 { 100000000 }        # Splash Screen Menu ID == 100000000
+U32 { 1051402266 } # Background Image Splash hash code
+U32 { 1001 }       # Animation to play ID
+F32 { 6.0 }        # Display Time min time to display splash screen
+U32 { 2143620005 } # Background Music Hash 
+ 

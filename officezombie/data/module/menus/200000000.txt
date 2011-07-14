@@ -1,0 +1,11 @@
+# Profile Menu Data
+U32 { 200000000 }       # Splash Screen Menu ID == 100
+U32 { 971030732 } # Background Image Splash hash code
+U32 { 1218731941 } # New Profile dialog box
+U32 { 1994092817 1124167113 973208331 } # Buttons
+F32 { 680.0f, 560.0f }  #exitbtn position
+F32 { 740.0f, 560.0f }  #okbtn position
+F32 { 450.0f, 560.0f }  #newbtn position
+U32 { 28 }              #Font size
+F32 { 168.0f, 340.0f }  # where to draw font data
+U32 { 658938788 } # profile exists image

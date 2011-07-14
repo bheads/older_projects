@@ -1,0 +1,27 @@
+2048 768 55 40
+s 0 0 2048 32 100 gfx/stag1/top.png
+s 0 0 128 768 101 gfx/stag1/rock1.png 
+s 80 0 192 768 102 gfx/stag1/rock2.png 
+s 510 420 256 96 103 gfx/stag1/rock3.png
+s 1920 0 128 768 104 gfx/stag1/rock4.png 
+s 790 0 128 768 105 gfx/stag1/rock5.png
+s 950 0 640 768 106 gfx/stag1/rock6.png 
+s 0 748 2048 32 110 gfx/stag1/bottom.png
+e 26 280 64 64 150 1 gfx/stag1/gold1.png 
+e 52 700 64 64 151 4 gfx/stag1/chest1.png 
+i 152 gfx/stag1/chest1open.png 
+e 590 392 64 64 153 2 gfx/stag1/gold3.png 
+e 1415 697 64 64 154 0 gfx/stag1/gold4.png 
+e 290 630 128 128 155 5 gfx/stag1/seaweed1.png
+e 420 710 64 64 156 2 gfx/stag1/gold2.png
+e 480 505 256 256 157 5 gfx/stag1/seaweed2.png
+e 760 710 640 64 158 5 gfx/stag1/seaweed3.png
+a 550 300 128 48 200 0 0 gfx/stag1/fish1left.png
+i 201 gfx/stag1/fish1right.png
+e 1100 99 64 64 160 0 gfx/stag1/gold5.png 
+e 1724 700 64 64 162 3 gfx/stag1/gold7.png
+a 1118 608 128 48 202 0 0 gfx/stag1/fish2left.png
+i 203 gfx/stag1/fish2right.png
+a 1670 200 256 96 500 0 0 gfx/stag1/boss1left.png
+i 501 gfx/stag1/boss1right.png
+e 1950 680 128 77 170 6 gfx/stag1/exit.png

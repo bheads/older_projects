@@ -1,0 +1,41 @@
+
+
+CC=dmd
+LIBS=
+BIN=nvzpf.exe
+FLAGS=-release -O -inline -L/subsystem:windows:4
+OBJ= src/state.d \
+     src/statemainmenu.d \
+     src/stategame.d \
+     src/statepause.d \
+     src/stategotstars.d \
+     src/statedead.d \
+     src/statestageexit.d \
+	 src/statemanager.d \
+	 src/camera.d \
+     src/sdl.d \
+     src/input.d \
+     src/window.d \
+     src/manager.d \
+     src/graphics.d \
+     src/graphicsmanager.d \
+     src/gfx_id.d \
+     src/gameobjects.d \
+     src/gameworld.d \
+     src/staticobject.d \
+     src/dynamicobject.d \
+     src/eventobject.d \
+     src/aiobject.d \
+     src/fps.d \
+     src/ninja.d \
+     src/main.d 
+     
+
+
+all:
+	${CC} ${OBJ} -of${BIN} ${FLAGS} ${LIBS} 
+
+
+clean:
+	rm -rf *.obj *.map ${BIN}
+

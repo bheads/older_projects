@@ -1,0 +1,47 @@
+#lunch to office
+U32 { 2500 } # ID 2500 - 3000
+U32 { 10002 } # map to transition to
+U32 { 0 0 1 } # X, Y, Direction
+U32 { 0 } # solved
+U32 { 136 } # code
+U32 { 1622798604 } # Clue ID
+
+#warehouse to lunch
+U32 { 2501 } # ID 2500 - 3000
+U32 { 10000 } # map to transition to
+U32 { 0 9 1 } # X, Y, Direction
+U32 { 1 } # solved
+U32 { 0 } # code
+U32 { 0 } # clue ID
+
+#warehouse to office
+U32 { 2502 } # ID 2500 - 3000
+U32 { 10002 } # map to transition to
+U32 { 0 1 1 } # X, Y, Direction
+U32 { 0 } # solved
+U32 { 7385 } # code
+U32 { 1612347365 } # clue ID
+
+#office to lunch
+U32 { 2503 } # ID 2500 - 3000
+U32 { 10000 } # map to transition to
+U32 { 0 9 1 } # X, Y, Direction
+U32 { 1 } # solved
+U32 { 0 } # code
+U32 { 0 } # clue ID
+
+#office to ceooffice
+U32 { 2504 } # ID 2500 - 3000
+U32 { 10003 } # map to transition to
+U32 { 0 0 1 } # X, Y, Direction
+U32 { 0 } # solved
+U32 { 6838 } # code
+U32 { 1615574161 } # clue ID
+
+#ceooffice to office
+U32 { 2505 } # ID 2500 - 3000
+U32 { 10002 } # map to transition to
+U32 { 3 8 1 } # X, Y, Direction
+U32 { 1 } # solved
+U32 { 0 } # code
+U32 { 0 } # clue ID

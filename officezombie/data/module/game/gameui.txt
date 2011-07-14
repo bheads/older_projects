@@ -1,0 +1,6 @@
+U32 { 600 } # game UI Code
+U32 { 925713571 } #UI BAR
+U32 { 1948868588 383513525 } # brain
+U32 { 2047505626 } # Menu button hash
+F32 { 740.0 570.0 } # Menu button pos
+

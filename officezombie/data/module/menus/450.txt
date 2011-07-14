@@ -1,0 +1,3 @@
+# Trophies Data
+U32 { 450 }       # mainmenu Screen Menu ID == 450
+U32 { 638093666 } # Background Image Splash hash code
